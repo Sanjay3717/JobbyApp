@@ -1,0 +1,29 @@
+.home-bg-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/home-lg-bg.png');
+  min-height: 100vh;
+  background-size: cover;
+}
+.content-color {
+  color: #ffffff;
+}
+.home-content {
+  padding: 30px;
+  height: 100px;
+  width: 550px;
+}
+.home-title {
+  font-size: 50px;
+}
+.home-desc {
+  font-size: 20px;
+}
+.find-jobs-btn {
+  background-color: #4f46e5;
+  border-width: 0px;
+  color: #ffffff;
+  height: 35px;
+  width: 110px;
+  border-radius: 5px;
+  font-size: 15px;
+  cursor: pointer;
+}

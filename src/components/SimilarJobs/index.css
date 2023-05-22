@@ -1,0 +1,6 @@
+.similar-jobs-list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  width: 25%;
+}
